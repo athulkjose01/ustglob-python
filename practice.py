@@ -36,3 +36,6 @@ for i in sp:
     sum = sum + i[1]
 
 print(sum)
+
+
+print(sum)
