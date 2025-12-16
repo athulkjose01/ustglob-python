@@ -37,5 +37,3 @@ for i in sp:
 
 print(sum)
 
-
-print(sum)
